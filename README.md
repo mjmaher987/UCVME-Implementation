@@ -24,7 +24,11 @@ To install CV2 package it is neccessary to install OpenCV in python (not cv2), b
 ## Process
 ### Clone
 First of all, I have cloned from the main repository (https://github.com/xmed-lab/UCVME.git) in Pycharm (locally).
-## Intalling Libraries
+### Dataset Download
+In this step, I have downloaded the dataset from https://susanqq.github.io/UTKFace/.
+In this webpage, I have downloaded the "Aligned&Cropped Faces" zip file, then etracted it and copied and pasted the images into the UTKFace directory in the cloned ptoject.
+Note that if we forget to download the dataset, we are going to face an exception (Not Found Exception).
+### Intalling Libraries
 I opened the "__init__.py" file and installed the neccessary (and not-installed) libraries to my directory.
 This task can be done in 3 ways:
 -- Use another Configuration in Pycharm that satisfies the needed libraries.
