@@ -24,6 +24,10 @@ Now I can clone from the main repository.
 First of all, I have cloned from the main repository (https://github.com/xmed-lab/UCVME.git) in Pycharm (locally).
 ## Intalling Libraries
 I opened the "__init__.py" file and installed the neccessary (and not-installed) libraries to my directory.
+This task can be done in 3 ways:
+-- Use another Configuration in Pycharm that satisfies the needed libraries.
+-- Intall the libraries by entering the proper command in command line.
+-- Simply Click "Alt+Enter" on the red part of the code (which is the not-satisfied library) and click on "Install Package".
 ![image](https://user-images.githubusercontent.com/77095635/233777521-fd60f650-dcf0-497a-8c34-d9648ef6aba8.png)
 
 ### Training
