@@ -35,6 +35,9 @@ It is also neccessary to add the libraries to "requirements.txt" file.
 ![image](https://user-images.githubusercontent.com/77095635/233777521-fd60f650-dcf0-497a-8c34-d9648ef6aba8.png)
 
 ### Training
+When we start trainig, first resnet starts to download:
+![image](https://user-images.githubusercontent.com/77095635/233778617-d2b76641-b9a9-46e0-88f0-1a56a79ea3ed.png)
+
 
 
 
