@@ -17,6 +17,8 @@ Due to the use of proxies in Iran, when I wanted to clone from https://github.co
 Unable to clone because of proxy.com.
 To solve this problem, I entered "git config --global --unset http.proxy" in gitbash and this problem is resolved.
 Now I can clone from the main repository.
+### CV2
+To install CV2 package it is neccessary to install OpenCV in python (not cv2), because there is no module named "cv2" that is recognizable for Pycharm.
 
 
 ## Process
@@ -28,6 +30,14 @@ This task can be done in 3 ways:
 -- Use another Configuration in Pycharm that satisfies the needed libraries.
 -- Intall the libraries by entering the proper command in command line.
 -- Simply Click "Alt+Enter" on the red part of the code (which is the not-satisfied library) and click on "Install Package".
+
+It is also neccessary to add the libraries to "requirements.txt" file.
 ![image](https://user-images.githubusercontent.com/77095635/233777521-fd60f650-dcf0-497a-8c34-d9648ef6aba8.png)
 
 ### Training
+
+
+
+## Details
+- I have done these processes in Windows 10. It can be done in Linux too.
+
