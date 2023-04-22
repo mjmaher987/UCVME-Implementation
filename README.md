@@ -51,7 +51,10 @@ Then the images are trained, etc. as wee can see in the below screenshot.
 After entering this (python3 ucvme_age.py --output='out' --test_only) in the terminal, we can see the below picture that the pictures are on the test:
 ![image](https://user-images.githubusercontent.com/77095635/233790906-6da84a76-7306-455c-854b-35a3e2f3b651.png)
 
-
+### Outputs
+We can check the outputs of our code running in the "out" directory that I have created in my own project.
+![image](https://user-images.githubusercontent.com/77095635/233791053-aa44fb11-4b3a-44ce-bef8-7496ad76c00a.png)
+There is a "log.csv" that is a report of want we have run.
 
 ## Details
 - I have done these processes in Windows 10. It can be done in Linux, too.
